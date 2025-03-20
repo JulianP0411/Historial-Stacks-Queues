@@ -1,0 +1,14 @@
+D:\University\2025\COSC-309\ProyectoProg\bin\Debug\net9.0\ProyectoProg.exe
+D:\University\2025\COSC-309\ProyectoProg\bin\Debug\net9.0\ProyectoProg.deps.json
+D:\University\2025\COSC-309\ProyectoProg\bin\Debug\net9.0\ProyectoProg.runtimeconfig.json
+D:\University\2025\COSC-309\ProyectoProg\bin\Debug\net9.0\ProyectoProg.dll
+D:\University\2025\COSC-309\ProyectoProg\bin\Debug\net9.0\ProyectoProg.pdb
+D:\University\2025\COSC-309\ProyectoProg\obj\Debug\net9.0\ProyectoProg.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\2025\COSC-309\ProyectoProg\obj\Debug\net9.0\ProyectoProg.AssemblyInfoInputs.cache
+D:\University\2025\COSC-309\ProyectoProg\obj\Debug\net9.0\ProyectoProg.AssemblyInfo.cs
+D:\University\2025\COSC-309\ProyectoProg\obj\Debug\net9.0\ProyectoProg.csproj.CoreCompileInputs.cache
+D:\University\2025\COSC-309\ProyectoProg\obj\Debug\net9.0\ProyectoProg.dll
+D:\University\2025\COSC-309\ProyectoProg\obj\Debug\net9.0\refint\ProyectoProg.dll
+D:\University\2025\COSC-309\ProyectoProg\obj\Debug\net9.0\ProyectoProg.pdb
+D:\University\2025\COSC-309\ProyectoProg\obj\Debug\net9.0\ProyectoProg.genruntimeconfig.cache
+D:\University\2025\COSC-309\ProyectoProg\obj\Debug\net9.0\ref\ProyectoProg.dll
